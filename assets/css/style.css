@@ -55,6 +55,12 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff url("../img/preloader.svg") no-repeat center center;
 }
 
+#ngo-name{
+  color: wheat;
+  font-weight: 700;
+  font-size: 3.3rem;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -494,7 +500,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h1 {
   color: #fff;
   font-family: "Raleway", sans-serif;
-  font-size: 56px;
+  font-size: 80px;
   font-weight: 600;
   text-transform: uppercase;
 }
@@ -807,6 +813,7 @@ h1, h2, h3, h4, h5, h6 {
 #schedule .nav-tabs li {
   display: inline-block;
   margin-bottom: 0;
+  margin-right: 20px;
 }
 
 #schedule .nav-tabs a {
@@ -815,7 +822,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   background-color: #0e1b4d;
   color: #fff;
-  padding: 10px 100px;
+  padding: 10px 50px;
 }
 
 @media (max-width: 991px) {
